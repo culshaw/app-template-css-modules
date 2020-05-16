@@ -16,8 +16,8 @@
   },
   "webDependencies": {},
   "devDependencies": {
-    "@snowpack/app-scripts-react": "^0.3.3",
     "@snowpack/app-scripts-css-modules": "https://github.com/culshaw/app-scripts-css-modules",
+    "@snowpack/app-scripts-react": "^0.3.3",
     "@testing-library/jest-dom": "^5.5.0",
     "@testing-library/react": "^10.0.3",
     "jest": "^25.4.0",
