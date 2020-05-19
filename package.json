@@ -1,5 +1,5 @@
 {
-  "name": "@snowpack/app-template-react",
+  "name": "app-template-css-modules",
   "version": "0.6.1",
   "license": "MIT",
   "keywords": [
